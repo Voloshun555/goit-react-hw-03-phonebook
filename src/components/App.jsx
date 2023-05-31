@@ -63,7 +63,7 @@ this.setState(prevState => ({
 
    if (parsedContacts) {
     this.setState({
-      'contacts': parsedContacts
+      contacts: parsedContacts
      })
     }
    }
